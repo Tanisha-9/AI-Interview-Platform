@@ -1,0 +1,11 @@
+{
+  "name": "Interview Buddy",
+  "description": "Interview Buddy – AI Career Buddy. A premium, high-fidelity platform for AI mock interviews, career twin tracking, STAR story management, ATS resume scoring, and predictive analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
